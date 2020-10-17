@@ -9,14 +9,14 @@ assignees: ''
 
 **Which service(s) is this report about?**
 Let us know which services(s) this report is about:
-- Check API
-- Check Web
-- Check Mark
-- Check Slack Bot
-- Pender
-- Alegre
-- Fetch
-- Narcissus
+- Check API:
+- Check Web:
+- Check Mark:
+- Check Slack Bot:
+- Pender:
+- Alegre:
+- Fetch:
+- Narcissus:
 
 **Expected behavior**
 Tell us what should happen
